@@ -17,7 +17,7 @@ from typing import Annotated, Literal
 from dataclasses import dataclass, field
 
 print("\n" + "🎯" * 50)
-print("🚀 COFFEE SHOP AGENT - Ekansh")
+print("🚀 COFFEE SHOP AGENT - Anshika")
 print("💡 agent.py LOADED SUCCESSFULLY!")
 print("🎯" * 50 + "\n")
 
